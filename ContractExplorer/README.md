@@ -72,4 +72,4 @@ $ ./contract-explorer.py -p -a 0xE95DC4d81A4707884E7Db4A53954763b36CB45aE
 
 **Example of output**
 
-Check `example.pdf`.
+Check [https://github.com/Cizeon/BlockchainTools/blob/main/ContractExplorer/example.pdf](example.pdf).
