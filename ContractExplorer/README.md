@@ -39,7 +39,7 @@ $ ./contract-explorer.py -p -a 0xE95DC4d81A4707884E7Db4A53954763b36CB45aE
 **Recursive example**
 
 ```console
-./contract-explorer.py -p -a 0xCAe2CaE9a4384B196c0f1bAE59724e0eb9a347e0 -r -o example
+$ ./contract-explorer.py -p -a 0xCAe2CaE9a4384B196c0f1bAE59724e0eb9a347e0 -r -o example
 -=[ Contract Explorer v0.1 ]=-
 
 [+] 0xCAe2CaE9a4384B196c0f1bAE59724e0eb9a347e0 - ConfigProvider
